@@ -9,8 +9,9 @@ h6 {
   color: inherit;
   font-weight: 500;
   line-height: 1.2;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
   margin-top: 0;
+  color: $title-color;
 }
 .h1,
 .h2,
@@ -19,6 +20,7 @@ h6 {
 .h5,
 .h6 {
   font-weight: 500;
+  color: $title-color;
 }
 h1,
 .h1 {
@@ -42,7 +44,7 @@ h5,
 }
 h6,
 .h6 {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 // Paragraphs
